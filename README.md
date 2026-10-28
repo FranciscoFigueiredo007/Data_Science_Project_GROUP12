@@ -1,6 +1,6 @@
 # O que faz um artista ter sucesso?
 
-Projeto de grupo de **Programming for Data Science** · 2026/27 · Grupo XX
+Projeto de grupo de **Programming for Data Science** · 2026/27 · Grupo 12
 
 | Nome | Número | Frente de trabalho |
 |---|---|---|
