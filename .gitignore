@@ -1,0 +1,7 @@
+# checkpoints e caches
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+
+# os dados processados SÃO para versionar: é assim que as frentes de trabalho
+# trocam resultados entre si. Não acrescentar data/processed/ aqui.
