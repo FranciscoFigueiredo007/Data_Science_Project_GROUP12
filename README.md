@@ -4,7 +4,7 @@ Projeto de grupo de **Programming for Data Science** · 2026/27 · Grupo 12
 
 | Nome | Número | Frente de trabalho |
 |---|---|---|
-| _(por preencher)_ | | Limpeza e qualidade |
+| Francisco Figueiredo | 20251484 | Limpeza e qualidade |
 | | | Análise e visualização |
 | | | Scraping |
 | | | Coordenadas e mapas |
@@ -22,7 +22,7 @@ notebooks/
 ├── 03_scraping.ipynb       locais e coordenadas da Wikipédia
 ├── 04_mapas.ipynb          os dois mapas interativos
 ├── 05_ds_in_action.ipynb   a secção livre
-└── GroupXX_PDS_2627.ipynb  o notebook final, montado no fim
+└── Group12_PDS_2627.ipynb  o notebook final, montado no fim
 data/
 ├── raw/        o dataset original, nunca alterado
 └── processed/  o que cada frente entrega às outras
