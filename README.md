@@ -36,11 +36,3 @@ outputs/        figuras e ficheiros gerados
 - O **02** e o **05** leem esse ficheiro.
 - O **03** bloqueia o **04**: os mapas leem `data/processed/locais_coordenadas.csv` e nunca correm
   o scraping.
-
-## Regras
-
-1. **Limpar os outputs antes de cada commit** (*Kernel → Restart & Clear Output*).
-2. `git pull` antes de começar, `git push` no fim da sessão.
-3. Um ficheiro, um dono. Não editar o notebook de outra pessoa.
-4. O que é lento corre uma vez e grava em `data/processed/`.
-5. A junção final faz-se **uma semana antes** da entrega, e acaba sempre com *Restart & Run All*.
