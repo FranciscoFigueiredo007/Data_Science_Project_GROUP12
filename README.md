@@ -7,7 +7,7 @@ Projeto de grupo de **Programming for Data Science** · 2026/27 · Grupo 12
 | Francisco Figueiredo | 20251484 | Limpeza e qualidade |
 | Martim Pereira | 20251567 | Análise e visualização |
 | Ana Pedro | 20251472 | Scraping |
-| Joana Heitor | 2025 | Coordenadas e mapas |
+| Joana Heitor | 20251485 | Coordenadas e mapas |
 
 **Entrega:** 21 de dezembro, 18h00 · **Defesa:** presencial, obrigatória
 
