@@ -5,7 +5,7 @@ Projeto de grupo de **Programming for Data Science** · 2026/27 · Grupo 12
 | Nome | Número | Frente de trabalho |
 |---|---|---|
 | Francisco Figueiredo | 20251484 | Limpeza e qualidade |
-| | | Análise e visualização |
+| Martim Pereira | 20251567 | Análise e visualização |
 | | | Scraping |
 | | | Coordenadas e mapas |
 
