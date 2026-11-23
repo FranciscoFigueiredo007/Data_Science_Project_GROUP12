@@ -4,9 +4,9 @@ Projeto de grupo de **Programming for Data Science** · 2026/27 · Grupo 12
 
 | Nome | Número | Frente de trabalho |
 |---|---|---|
-| Francisco Figueiredo | 20251484 | Limpeza e qualidade |
+| Francisco Figueiredo | 20251484 | Limpeza do dataset original |
 | Martim Pereira | 20251567 | Análise e visualização |
-| Ana Pedro | 20251472 | Scraping |
+| Ana Pedro | 20251472 | Web Scraping |
 | Joana Heitor | 20251485 | Coordenadas e mapas |
 
 **Entrega:** 21 de dezembro, 18h00 · **Defesa:** presencial, obrigatória
