@@ -9,7 +9,7 @@ Projeto de grupo de **Programming for Data Science** · 2026/27 · Grupo 12
 | Ana Pedro | 20251472 | Web Scraping |
 | Joana Heitor | 20251485 | Coordenadas e mapas |
 
-**Entrega:** 21 de dezembro, 18h00 · **Defesa:** presencial, obrigatória
+**Entrega:** 21 de dezembro, 18h00 · **Defesa:** 20 de janeiro, presencial.
 
 ---
 
